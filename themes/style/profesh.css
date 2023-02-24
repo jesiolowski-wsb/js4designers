@@ -164,6 +164,11 @@
     background: #a69feb;
     padding: .5em; }
 
+.rules {
+  background: url(../../img/rules.png) 98% 98% no-repeat;
+  background-size: 33% auto;
+}
+
 .god-object {
   background: url(../../img/p_head-object.png) 90% 0 no-repeat;
   background-size: 50% auto; }
