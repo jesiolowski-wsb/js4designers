@@ -1,3 +1,14 @@
+HTML consists of:
+- nav section with 4 links (shop, about, help, blog)
+- main area with:
+    - menu toggler (a link 'Menu' with the 'burger' image )
+    - a section for main page contents
+        - div container of a class 'slides' with 5 image slides (google for src vs srcset attribute)
+        - div container of a class of 'content' with:
+            - h1 element
+            - paragraph with text
+            - a link element 'buy for...'
+
 Typeface:
 Young Serif
 http://uplaod.fr/fonts/young-serif-2
@@ -20,7 +31,7 @@ Main area –
 Header: 48px Young Serif, with 1.2 line height
 Button color: #00b98d
 
-Main area copy –
+Main area:
 
 Plant set
 
